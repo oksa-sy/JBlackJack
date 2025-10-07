@@ -1,0 +1,10 @@
+module:BlackJack
+control
+model
+model.objects
+model.players
+view
+view.animations
+view.entity
+view.objects
+view.screen
